@@ -1,0 +1,1 @@
+Este é um app simples que criei pra agendar o desligamento do computador usando o "shutdown -s -f -t" e criei uma pequena interface, é uma das minhas primeiras aplicações, criei para agendar o desligamento e ir dormir ou sair do trabalho enquanto sincroniza no onedrive.
